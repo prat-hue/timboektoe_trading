@@ -9,18 +9,18 @@ The input describes several test cases. The first line of input for each test ca
 For each test case, print the case number (1, 2, …). Then print two lines, the first containing the maximum profit the merchant can achieve. The second line should specify the number of fluts the merchant has to buy to obtain this profit. If this number is not uniquely determined, print the possible values in increasing order. If there are more than ten possible values, print only the 10 smallest. Display a blank line between test cases.
 
 Example input
-1
-6 12 3 10 7 16 5
-2
-5 7 3 11 9 10
-9 1 2 3 4 10 16 10 4 16
-0
+1  
+6 12 3 10 7 16 5  
+2  
+5 7 3 11 9 10  
+9 1 2 3 4 10 16 10 4 16  
+0  
 
-Example output
-schuurs 1
-Maximum profit is 8.
-Number of fluts to buy: 4
-
-schuurs 2
-Maximum profit is 40.
-Number of fluts to buy: 9 10 13
+Example output  
+schuurs 1  
+Maximum profit is 8.  
+Number of fluts to buy: 4  
+  
+schuurs 2  
+Maximum profit is 40.  
+Number of fluts to buy: 9 10 13  
